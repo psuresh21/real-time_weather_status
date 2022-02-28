@@ -15,6 +15,11 @@ for window users
 python setup.py 
 ```
 
+# screenshot
+
+![weather_screenshot](https://user-images.githubusercontent.com/91040447/155969664-c4abf77d-7a58-4413-b892-36d3f3205d6a.png)
+
+
 # why need to use weather status
 - very accurate report
 - quickly you can see
